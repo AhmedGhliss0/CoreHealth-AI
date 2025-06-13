@@ -395,10 +395,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- 📧 Email: support@diabetes-medical-app.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/diabetes-medical-app/issues)
-- 📖 Documentation: [Wiki](https://github.com/your-username/diabetes-medical-app/wiki)
+- 📧 Email: ahmedghliss25@gmail.com
+
 
 ---
 
-**Made with ❤️ for better diabetes care**
+**Made with ❤️ by Ahmed Ghliss for better diabetes care**
